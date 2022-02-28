@@ -52,7 +52,7 @@ Using `pyspark`, answer the following questions:
 The code to answer the questions is specified below with corresponding comments.
 Note that for the last question, I followed the following [tutorial](https://towardsdatascience.com/market-basket-analysis-using-pysparks-fpgrowth-55c37ebd95c0).
 
-```
+```python
 import pyspark
 from pyspark.sql import SparkSession
 from pyspark import SparkConf
@@ -113,7 +113,7 @@ root
  |-- Country: string (nullable = true)
 
 > Frequent items bought together:
-22/02/28 15:11:42 WARN FPGrowth: Input data is not cached.
+
 +--------------------+----+
 |               items|freq|
 +--------------------+----+
