@@ -8,5 +8,4 @@ which conforms to the required page count of less than or equal to 5 pages.
 
 ## View the report via Github
 
-You can view the report via github [here]()
-
+You can view the report via github [here](https://github.com/LudekCizinsky/large-data-analysis/tree/main/assignments/03).
