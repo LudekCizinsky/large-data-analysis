@@ -1,3 +1,6 @@
+## About
+In this exercise, the goal was to get familiar working with Apache spark.
+
 ## Exercise 1
 
 Log into the ambari cluster. Find out the size of /datasets/retail/retail.csv in hdfs (hint: file system shell reference):
