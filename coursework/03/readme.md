@@ -8,4 +8,9 @@ which conforms to the required page count of less than or equal to 5 pages.
 
 ## View the report via Github
 
-You can view the report via github [here](https://github.com/LudekCizinsky/large-data-analysis/tree/main/assignments/03).
+You can view the following on github:
+
+- [report](https://github.com/LudekCizinsky/ml-flow/tree/main/report)
+- [repository](https://github.com/LudekCizinsky/ml-flow)
+
+In case of any questions, please do not hesitate to contact me at `luci@itu.dk`.
